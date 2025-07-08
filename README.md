@@ -1,5 +1,9 @@
 #  Bug Tracker Dashboard
 
+## Live Demo
+
+ [Check out the live app on Netlify](http://heartfelt-hamster.netlify.app)
+
 A simple, intuitive **frontend-only** application for tracking bugs. You can add, monitor, update status, and delete bugs — all within a clean, animated, and responsive UI.
 
 ---
